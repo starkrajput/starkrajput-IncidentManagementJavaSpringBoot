@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Java\\ReactWebUI_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6FA34D-4C67-4F48-B6C4-475662E93623}|reactwebui_api.client\\reactwebui_api.client.esproj|d:\\java\\reactwebui_api\\reactwebui_api.client\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{AC6FA34D-4C67-4F48-B6C4-475662E93623}|reactwebui_api.client\\reactwebui_api.client.esproj|solutionrelative:reactwebui_api.client\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6FA34D-4C67-4F48-B6C4-475662E93623}|reactwebui_api.client\\reactwebui_api.client.esproj|d:\\java\\reactwebui_api\\reactwebui_api.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AC6FA34D-4C67-4F48-B6C4-475662E93623}|reactwebui_api.client\\reactwebui_api.client.esproj|solutionrelative:reactwebui_api.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6FA34D-4C67-4F48-B6C4-475662E93623}|reactwebui_api.client\\reactwebui_api.client.esproj|d:\\java\\reactwebui_api\\reactwebui_api.client\\src\\components\\incidentform.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{AC6FA34D-4C67-4F48-B6C4-475662E93623}|reactwebui_api.client\\reactwebui_api.client.esproj|solutionrelative:reactwebui_api.client\\src\\components\\incidentform.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6FA34D-4C67-4F48-B6C4-475662E93623}|reactwebui_api.client\\reactwebui_api.client.esproj|d:\\java\\reactwebui_api\\reactwebui_api.client\\src\\components\\incidentlist.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{AC6FA34D-4C67-4F48-B6C4-475662E93623}|reactwebui_api.client\\reactwebui_api.client.esproj|solutionrelative:reactwebui_api.client\\src\\components\\incidentlist.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6FA34D-4C67-4F48-B6C4-475662E93623}|reactwebui_api.client\\reactwebui_api.client.esproj|d:\\java\\reactwebui_api\\reactwebui_api.client\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{AC6FA34D-4C67-4F48-B6C4-475662E93623}|reactwebui_api.client\\reactwebui_api.client.esproj|solutionrelative:reactwebui_api.client\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6FA34D-4C67-4F48-B6C4-475662E93623}|reactwebui_api.client\\reactwebui_api.client.esproj|d:\\java\\reactwebui_api\\reactwebui_api.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AC6FA34D-4C67-4F48-B6C4-475662E93623}|reactwebui_api.client\\reactwebui_api.client.esproj|solutionrelative:reactwebui_api.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6FA34D-4C67-4F48-B6C4-475662E93623}|reactwebui_api.client\\reactwebui_api.client.esproj|d:\\java\\reactwebui_api\\reactwebui_api.client\\src\\components\\forgotpassword.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{AC6FA34D-4C67-4F48-B6C4-475662E93623}|reactwebui_api.client\\reactwebui_api.client.esproj|solutionrelative:reactwebui_api.client\\src\\components\\forgotpassword.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6FA34D-4C67-4F48-B6C4-475662E93623}|reactwebui_api.client\\reactwebui_api.client.esproj|d:\\java\\reactwebui_api\\reactwebui_api.client\\src\\components\\login.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{AC6FA34D-4C67-4F48-B6C4-475662E93623}|reactwebui_api.client\\reactwebui_api.client.esproj|solutionrelative:reactwebui_api.client\\src\\components\\login.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6FA34D-4C67-4F48-B6C4-475662E93623}|reactwebui_api.client\\reactwebui_api.client.esproj|d:\\java\\reactwebui_api\\reactwebui_api.client\\src\\components\\registration.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{AC6FA34D-4C67-4F48-B6C4-475662E93623}|reactwebui_api.client\\reactwebui_api.client.esproj|solutionrelative:reactwebui_api.client\\src\\components\\registration.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6FA34D-4C67-4F48-B6C4-475662E93623}|reactwebui_api.client\\reactwebui_api.client.esproj|d:\\java\\reactwebui_api\\reactwebui_api.client\\src\\components\\privateroute.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{AC6FA34D-4C67-4F48-B6C4-475662E93623}|reactwebui_api.client\\reactwebui_api.client.esproj|solutionrelative:reactwebui_api.client\\src\\components\\privateroute.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6FA34D-4C67-4F48-B6C4-475662E93623}|reactwebui_api.client\\reactwebui_api.client.esproj|d:\\java\\reactwebui_api\\reactwebui_api.client\\src\\utils.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{AC6FA34D-4C67-4F48-B6C4-475662E93623}|reactwebui_api.client\\reactwebui_api.client.esproj|solutionrelative:reactwebui_api.client\\src\\utils.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6FA34D-4C67-4F48-B6C4-475662E93623}|reactwebui_api.client\\reactwebui_api.client.esproj|d:\\java\\reactwebui_api\\reactwebui_api.client\\src\\services\\authservice.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{AC6FA34D-4C67-4F48-B6C4-475662E93623}|reactwebui_api.client\\reactwebui_api.client.esproj|solutionrelative:reactwebui_api.client\\src\\services\\authservice.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.css",
+              "DocumentMoniker": "D:\\Java\\ReactWebUI_API\\reactwebui_api.client\\src\\App.css",
+              "RelativeDocumentMoniker": "reactwebui_api.client\\src\\App.css",
+              "ToolTip": "D:\\Java\\ReactWebUI_API\\reactwebui_api.client\\src\\App.css",
+              "RelativeToolTip": "reactwebui_api.client\\src\\App.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-12T10:44:41.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.css",
+              "DocumentMoniker": "D:\\Java\\ReactWebUI_API\\reactwebui_api.client\\src\\index.css",
+              "RelativeDocumentMoniker": "reactwebui_api.client\\src\\index.css",
+              "ToolTip": "D:\\Java\\ReactWebUI_API\\reactwebui_api.client\\src\\index.css",
+              "RelativeToolTip": "reactwebui_api.client\\src\\index.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-12T10:44:39.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IncidentList.tsx",
+              "DocumentMoniker": "D:\\Java\\ReactWebUI_API\\reactwebui_api.client\\src\\components\\IncidentList.tsx",
+              "RelativeDocumentMoniker": "reactwebui_api.client\\src\\components\\IncidentList.tsx",
+              "ToolTip": "D:\\Java\\ReactWebUI_API\\reactwebui_api.client\\src\\components\\IncidentList.tsx",
+              "RelativeToolTip": "reactwebui_api.client\\src\\components\\IncidentList.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-12T10:44:24.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IncidentForm.tsx",
+              "DocumentMoniker": "D:\\Java\\ReactWebUI_API\\reactwebui_api.client\\src\\components\\IncidentForm.tsx",
+              "RelativeDocumentMoniker": "reactwebui_api.client\\src\\components\\IncidentForm.tsx",
+              "ToolTip": "D:\\Java\\ReactWebUI_API\\reactwebui_api.client\\src\\components\\IncidentForm.tsx",
+              "RelativeToolTip": "reactwebui_api.client\\src\\components\\IncidentForm.tsx",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-12T10:44:11.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ForgotPassword.tsx",
+              "DocumentMoniker": "D:\\Java\\ReactWebUI_API\\reactwebui_api.client\\src\\components\\ForgotPassword.tsx",
+              "RelativeDocumentMoniker": "reactwebui_api.client\\src\\components\\ForgotPassword.tsx",
+              "ToolTip": "D:\\Java\\ReactWebUI_API\\reactwebui_api.client\\src\\components\\ForgotPassword.tsx",
+              "RelativeToolTip": "reactwebui_api.client\\src\\components\\ForgotPassword.tsx",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-12T10:43:42.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.tsx",
+              "DocumentMoniker": "D:\\Java\\ReactWebUI_API\\reactwebui_api.client\\src\\components\\Login.tsx",
+              "RelativeDocumentMoniker": "reactwebui_api.client\\src\\components\\Login.tsx",
+              "ToolTip": "D:\\Java\\ReactWebUI_API\\reactwebui_api.client\\src\\components\\Login.tsx",
+              "RelativeToolTip": "reactwebui_api.client\\src\\components\\Login.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-12T10:43:08.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PrivateRoute.tsx",
+              "DocumentMoniker": "D:\\Java\\ReactWebUI_API\\reactwebui_api.client\\src\\components\\PrivateRoute.tsx",
+              "RelativeDocumentMoniker": "reactwebui_api.client\\src\\components\\PrivateRoute.tsx",
+              "ToolTip": "D:\\Java\\ReactWebUI_API\\reactwebui_api.client\\src\\components\\PrivateRoute.tsx",
+              "RelativeToolTip": "reactwebui_api.client\\src\\components\\PrivateRoute.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-12T10:39:40.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "utils.ts",
+              "DocumentMoniker": "D:\\Java\\ReactWebUI_API\\reactwebui_api.client\\src\\utils.ts",
+              "RelativeDocumentMoniker": "reactwebui_api.client\\src\\utils.ts",
+              "ToolTip": "D:\\Java\\ReactWebUI_API\\reactwebui_api.client\\src\\utils.ts",
+              "RelativeToolTip": "reactwebui_api.client\\src\\utils.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-12T10:41:53.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.tsx",
+              "DocumentMoniker": "D:\\Java\\ReactWebUI_API\\reactwebui_api.client\\src\\App.tsx",
+              "RelativeDocumentMoniker": "reactwebui_api.client\\src\\App.tsx",
+              "ToolTip": "D:\\Java\\ReactWebUI_API\\reactwebui_api.client\\src\\App.tsx",
+              "RelativeToolTip": "reactwebui_api.client\\src\\App.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-12T10:40:14.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.tsx",
+              "DocumentMoniker": "D:\\Java\\ReactWebUI_API\\reactwebui_api.client\\src\\main.tsx",
+              "RelativeDocumentMoniker": "reactwebui_api.client\\src\\main.tsx",
+              "ToolTip": "D:\\Java\\ReactWebUI_API\\reactwebui_api.client\\src\\main.tsx",
+              "RelativeToolTip": "reactwebui_api.client\\src\\main.tsx",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-11T10:00:20.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Registration.tsx",
+              "DocumentMoniker": "D:\\Java\\ReactWebUI_API\\reactwebui_api.client\\src\\components\\Registration.tsx",
+              "RelativeDocumentMoniker": "reactwebui_api.client\\src\\components\\Registration.tsx",
+              "ToolTip": "D:\\Java\\ReactWebUI_API\\reactwebui_api.client\\src\\components\\Registration.tsx",
+              "RelativeToolTip": "reactwebui_api.client\\src\\components\\Registration.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-10T17:54:44.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthService.ts",
+              "DocumentMoniker": "D:\\Java\\ReactWebUI_API\\reactwebui_api.client\\src\\services\\AuthService.ts",
+              "RelativeDocumentMoniker": "reactwebui_api.client\\src\\services\\AuthService.ts",
+              "ToolTip": "D:\\Java\\ReactWebUI_API\\reactwebui_api.client\\src\\services\\AuthService.ts",
+              "RelativeToolTip": "reactwebui_api.client\\src\\services\\AuthService.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-10T16:58:57.807Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
